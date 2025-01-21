@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Brian
-- 👀 I’m interested in ...Software development 
-- 🌱 I’m currently learning ...MIT
+- 👀 An upcoming Software Engineer 
+- 🌱 Currently studying at Emobilis
 - 💞️ I’m looking to collaborate on ...Software development projects
 - 📫 How to reach me ...Gmail @mutukubrian348@gmail.com
 - or via WhatsApp no. 0712564288
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...I like coding😜
+- ⚡ Fun fact: ...coding be my hobby😜
 
 <!---
 Bra-yo/Bra-yo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
