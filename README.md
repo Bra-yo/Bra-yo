@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bra-yo
+- 👋 Hi, I’m Brian
 - 👀 I’m interested in ...Software development 
 - 🌱 I’m currently learning ...MIT
 - 💞️ I’m looking to collaborate on ...Software development projects
