@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Brian
-- 👀 An upcoming Software Engineer 
-- 🌱 Currently studying at Emobilis
-- 💞️ I’m looking to collaborate on ...Software development projects
-- 📫 How to reach me ...Gmail @mutukubrian348@gmail.com
-- or via WhatsApp no. 0712564288
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...coding be my hobby😜
+About Me:
+
+Upcoming Software Engineer | Problem Solver | Tech Enthusiast
+
+- **A** Passionate about creating clean, efficient, and scalable software solutions  
+- **B** Specializes in web development, Android development, and machine learning. Constantly exploring new technologies and frameworks  
+- **C** Enjoys solving Git challenges  
+- **D** Always eager to learn and collaborate on projects. Let’s build something amazing together!  
+
+### Tech Stack
+
+**AVAILABLE**  
+**FASTAPI**  
+**HTML5**  
+
+**ACTIX**  
+**GIN**  
+**NESTJS**  
+
+**DOCKER**  
+**K8S**  
+**AWS**  
 
 <!---
 Bra-yo/Bra-yo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
