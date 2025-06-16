@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/Bra-yo/Bra-yo/assets/banner.png" alt="Brian Mutuku Banner" width="100%" />
+  <img src="https://github.com/Bra-yo/Bra-yo/assets/banner.png" alt="" width="100%" />
 </p>
 
 # Who's Brian Mutuku? 🤷‍♂️
